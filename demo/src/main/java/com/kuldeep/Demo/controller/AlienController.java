@@ -1,7 +1,7 @@
 package com.kuldeep.Demo.controller;
 
-import com.anand.Demo.AlienRepo;
-import com.anand.Demo.model.Alien;
+import com.kuldeep.Demo.AlienRepo;
+import com.kuldeep.Demo.model.Alien;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
